@@ -1,8 +1,14 @@
-![alt text](http://images.wallaceandgromit.com/2009/about/photo-granddayout.jpg "Logo Title Text 1")
+![alt text](http://images.wallaceandgromit.com/2009/about/photo-granddayout.jpg "Logo Title Text 1")  
+
 
 # Level up with constraints
+Using a deck of constraint cards, a 2013 Kickstarter project to improve your web development skills, we will build a website.
 
-## Exercise
+Each card in the deck has a constraint on it that will limit the things we can use or do whilst building the site.
+
+More information can be found on http://constraints.co/.
+
+## Mooncheese
 Finally the time has arrived, it is now 2021 and commercial space flight is getting more and more accesible for the general public. Trips around Earth are a getting populair as day activities and as school trips.
 
 There is now a well established settlement in Mars and the Chinese have been mining lunar regolith for four years now.
