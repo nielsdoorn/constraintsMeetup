@@ -1,10 +1,12 @@
-![alt text](http://images.wallaceandgromit.com/2009/about/photo-granddayout.jpg "Logo Title Text 1")  
+![Meetup](http://photos1.meetupstatic.com/photos/event/3/a/7/2/global_220574962.jpeg "learn create share")  
 
 
 # Level up with constraints
 Using a deck of constraint cards, a 2013 Kickstarter project to improve your web development skills, we will build a website.
 
 Each card in the deck has a constraint on it that will limit the things we can use or do whilst building the site.
+
+![constraints](http://photos3.meetupstatic.com/photos/event/1/b/f/a/600_321727162.jpeg "Constraints")
 
 More information can be found on http://constraints.co/.
 
